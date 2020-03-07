@@ -1,0 +1,11 @@
+.navbar {
+  border-radius: 0;
+  font-family: fantasy;
+  
+  
+}
+
+.navbar-brand {
+  color: pink;
+  font-weight: bold;
+}

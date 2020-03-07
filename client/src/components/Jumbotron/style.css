@@ -1,0 +1,13 @@
+.jumbotron {
+  padding: 100px;
+  font-family: fantasy;
+  /* background-color: pink; */
+}
+
+.jumbotron {
+  background-image: url(libr.jpg);
+}
+
+.text-center {
+  font-size: 60px;
+}
